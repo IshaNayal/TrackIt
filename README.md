@@ -5,15 +5,9 @@ A beautifully designed React Native app to track daily attendance, manage class-
 The app sends customized reminders at the end of each class, helping students stay consistent with attendance. It also features a task-based calendar where users can write daily tasks, set reminders, and ensure all goals are completed on time — all in one place.
 
 ✨ Key Highlights
-
-Smart daily attendance tracking
-
-Custom notifications after each class
-
-Beautiful, user-friendly calendar UI
-
-Add daily tasks with reminders
-
-Designed for productivity and consistency
-
-Built with a focus on simplicity, usability, and a smooth mobile experience.
+1)Smart daily attendance tracking
+2)Custom notifications after each class
+3)Beautiful, user-friendly calendar UI
+4)Add daily tasks with reminders
+5)Designed for productivity and consistency
+6)Built with a focus on simplicity, usability, and a smooth mobile experience.
