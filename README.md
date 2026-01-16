@@ -6,8 +6,13 @@ The app sends customized reminders at the end of each class, helping students st
 
 ✨ Key Highlights
 1)Smart daily attendance tracking
+
 2)Custom notifications after each class
+
 3)Beautiful, user-friendly calendar UI
+
 4)Add daily tasks with reminders
+
 5)Designed for productivity and consistency
+
 6)Built with a focus on simplicity, usability, and a smooth mobile experience.
