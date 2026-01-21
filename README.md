@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 📱 Attendance & Daily Planner App (React Native)
 
 A beautifully designed React Native app to track daily attendance, manage class-wise notifications, and plan your day effectively using an interactive calendar.
