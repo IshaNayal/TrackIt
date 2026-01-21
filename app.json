@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "TrackIt",
+    "slug": "trackit",
+    "version": "1.0.0",
+    "icon": "./app/(tabs)/assets/images/trackit.png",
+    "orientation": "portrait",
+    "scheme": "trackit",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.isha_20061.trackit",
+      "adaptiveIcon": {
+        "foregroundImage": "./app/(tabs)/assets/images/trackit.png",
+        "backgroundColor": "#E6F4FE"
+      }
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "49a7dd1b-c20b-49e4-b028-3ad133e32f79"
+      }
+    },
+    "owner": "isha_20061"
+  }
+}
